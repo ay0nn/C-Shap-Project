@@ -1,0 +1,40 @@
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csprojAssemblyReference.cache
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.homepage.resources
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FrmUser.resources
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FormDonor.resources
+D:\PharmacyManagementBYKHM\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.logInForm.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csprojAssemblyReference.cache
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FormDonor.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FrmUser.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.homepage.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.logInForm.resources
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+D:\Blood Bank MS\BB1\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe.config
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.exe
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\bin\Debug\WindowsFormsApp112.pdb
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csprojAssemblyReference.cache
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FormDonor.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.homepage.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Properties.Resources.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.logInForm.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.GenerateResource.cache
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.exe
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.pdb
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui._1stpage.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.csproj.CoreCompileInputs.cache
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.DUhome.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.donor_register.resources
+S:\OOP-2\Project\BBMS\WindowsFormsApp112\WindowsFormsApp112\obj\Debug\WindowsFormsApp112.Ui.FormAdmin.resources
